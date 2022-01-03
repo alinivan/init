@@ -1,7 +1,7 @@
 <?php
 
-namespace Autoload;
-require 'vendor/autoload.php';
+namespace alinivan;
+require_once 'vendor/autoload.php';
 
 class Hashing {
     /**

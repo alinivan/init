@@ -1,8 +1,8 @@
 <?php
 
-namespace Autoload;
+namespace alinivan;
 
-require 'vendor/autoload.php';
+require_once 'vendor/autoload.php';
 require_once 'StringValidator.php';
 
 class Validator extends StringValidator {
