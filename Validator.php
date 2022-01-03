@@ -2,6 +2,7 @@
 
 namespace Autoload;
 
+require 'vendor/autoload.php';
 require_once 'StringValidator.php';
 
 class Validator extends StringValidator {

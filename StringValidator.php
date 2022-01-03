@@ -1,6 +1,7 @@
 <?php
 
 namespace Autoload;
+require 'vendor/autoload.php';
 
 class StringValidator {
     /**
